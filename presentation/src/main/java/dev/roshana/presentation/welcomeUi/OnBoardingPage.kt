@@ -3,10 +3,6 @@ package dev.roshana.presentation.welcomeUi
 import androidx.annotation.DrawableRes
 import dev.roshana.domain.R
 
-/** PariSa;
-coding and smoking ;)
- **/
-
 sealed class OnBoardingPage(
     @DrawableRes
     val image: Int,

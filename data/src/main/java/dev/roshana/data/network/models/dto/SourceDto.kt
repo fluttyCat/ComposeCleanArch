@@ -4,10 +4,6 @@ import android.os.Parcelable
 import androidx.annotation.Keep
 import kotlinx.parcelize.Parcelize
 
-/** PariSa;
-coding and smoking ;)
- **/
-
 @Parcelize
 data class SourceDto(
     @Keep val id: String? = null,

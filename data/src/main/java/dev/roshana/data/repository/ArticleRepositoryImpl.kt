@@ -1,5 +1,6 @@
 package  dev.roshana.data.repository
 
+import android.app.Application
 import androidx.paging.Pager
 import androidx.paging.PagingConfig
 import androidx.paging.PagingData
@@ -10,10 +11,6 @@ import dev.roshana.domain.repositories.ArticleRepository
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject
 import javax.inject.Singleton
-
-/** PariSa;
-coding and smoking ;)
- **/
 
 @Singleton
 class ArticleRepositoryImpl @Inject constructor(

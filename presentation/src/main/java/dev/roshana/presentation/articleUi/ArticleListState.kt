@@ -5,10 +5,6 @@ import dev.roshana.domain.models.DataState
 import dev.roshana.domain.models.article.Article
 import kotlinx.coroutines.flow.Flow
 
-/** PariSa;
-coding and smoking ;)
- **/
-
 class ArticleListState(
     var loading: Boolean? = null,
     var dataList: Flow<PagingData<Article>>? = null,

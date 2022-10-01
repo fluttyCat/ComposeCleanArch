@@ -10,10 +10,6 @@ import dev.roshana.domain.usecases.ArticleUseCase
 import dev.roshana.domain.usecases.DataStoreUseCase
 import javax.inject.Singleton
 
-/** PariSa;
-coding and smoking ;)
- **/
-
 @Module
 @InstallIn(SingletonComponent::class)
 object UseCaseModule {

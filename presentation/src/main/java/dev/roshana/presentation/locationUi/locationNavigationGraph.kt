@@ -12,10 +12,6 @@ import dev.roshana.presentation.navigation.Articles
 import dev.roshana.presentation.navigation.Locations
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 
-/** PariSa;
-coding and smoking ;)
- **/
-
 @ExperimentalMaterialApi
 @ExperimentalCoroutinesApi
 @ExperimentalAnimationApi

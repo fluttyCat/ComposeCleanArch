@@ -12,9 +12,6 @@ import kotlinx.coroutines.CoroutineExceptionHandler
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 
-/** PariSa;
-coding and smoking ;)
- **/
 
 @HiltViewModel
 class ArticleListViewModel @Inject constructor(

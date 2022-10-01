@@ -15,10 +15,6 @@ import dev.roshana.presentation.navigation.Articles
 import dev.roshana.presentation.navigation.Locations
 import dev.roshana.presentation.welcomeUi.WelcomeViewModel
 
-/** PariSa;
-coding and smoking ;)
- **/
-
 @ExperimentalMaterialApi
 @ExperimentalAnimationApi
 @Composable

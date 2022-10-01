@@ -24,10 +24,6 @@ import java.net.UnknownHostException
 import java.util.concurrent.TimeUnit
 import javax.inject.Singleton
 
-/** PariSa;
-coding and smoking ;)
- **/
-
 @Module
 @InstallIn(SingletonComponent::class)
 object NetworkModule {

@@ -4,9 +4,6 @@ import android.app.Application
 import android.content.SharedPreferences
 import android.preference.PreferenceManager
 
-/** PariSa;
-coding and smoking ;)
- **/
 
 interface Preference {
     fun put(key: String, value: String)

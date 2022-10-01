@@ -3,9 +3,6 @@ package dev.roshana.data.db
 import androidx.room.*
 import dev.roshana.data.network.models.dto.ArticleDto
 
-/** PariSa;
-coding and smoking ;)
- **/
 
 @Dao
 interface ArticleDao {

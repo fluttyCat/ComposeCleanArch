@@ -10,10 +10,6 @@ import dev.roshana.data.preference.Preference
 import dev.roshana.data.preference.PreferenceImpl
 import javax.inject.Singleton
 
-/** PariSa;
-coding and smoking ;)
- **/
-
 @Module
 @InstallIn(SingletonComponent::class)
 class DatabaseModule {

@@ -13,10 +13,6 @@ import dev.roshana.presentation.navigation.Screens
 import dev.roshana.presentation.welcomeUi.WelcomeScreen
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 
-/** PariSa;
-coding and smoking ;)
- **/
-
 @OptIn(ExperimentalCoroutinesApi::class)
 @ExperimentalMaterialApi
 @ExperimentalAnimationApi

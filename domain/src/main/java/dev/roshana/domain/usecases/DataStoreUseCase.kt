@@ -4,10 +4,6 @@ import dev.roshana.domain.repositories.DataStoreRepository
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject
 
-/** PariSa;
-coding and smoking ;)
- **/
-
 class DataStoreUseCase @Inject constructor(
     private val dataStoreRepository: DataStoreRepository
 ) {

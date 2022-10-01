@@ -13,10 +13,6 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.window.Dialog
 import androidx.compose.ui.window.DialogProperties
 
-/** PariSa;
-coding and smoking ;)
- **/
-
 @Composable
 fun DialogCircularProgressBar(
     modifier: Modifier = Modifier
